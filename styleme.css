@@ -1,0 +1,24 @@
+h1 {color: rgb(117, 117, 158)}
+
+#hi {text-align: center;}
+html {background-color: rgb(222, 195, 159);}
+#p {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+img {
+    height: 200px;
+    width: 250px;
+    margin-left: 18px;
+  }
+#first {background-color: whitesmoke;}
+#sana {
+width: 300px;
+background-color: rgb(120, 135, 154);
+height: 250px;}
+#sg {font-size: larger;
+font-weight: 600;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+#more {border:solid  green;
+margin: 20px;
+background-color: rgb(118, 226, 190);
+width: 280px}
+#clickk {height: 90px;}
